@@ -1,6 +1,6 @@
-# Blazor Scheduler - Load Appointments On Demand
+# How to load appointments on demand in Blazor Scheduler
 
-A quick start project that demonstrates how to efficiently load appointments on demand in the Blazor Scheduler component, optimizing performance by fetching data asynchronously when needed rather than loading all appointments upfront.
+A quick start project that demonstrates how to efficiently load appointments on demand in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component, optimizing performance by fetching data asynchronously when needed rather than loading all appointments upfront.
 
 ## Project Overview
 
